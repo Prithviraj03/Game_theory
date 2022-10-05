@@ -1,6 +1,6 @@
 # Submission Instructions
 
-
+Students should submit their assignments only using the files provided. No files, methods and/or their signatures (i.e. input attributes) can be added, modified, or deleted. Furthermore, no additional dependencies are allowed to be imported into any file. For more details about the assignment, please refer to HW2b problem statement.
 
 # Instructions for cloning hw2b folder
 
@@ -28,13 +28,13 @@ $ git add SUBDIRECTORY/*
 # To commit changes and document them:
 $ git commit -m "Informative description of the commit"
 
-# To submit your assignments: 
+# To submit your assignments:
 $ git push origin HEAD
 ```
 
 
 ## Do not add:
-Compiled or generated files like *.out, *.log, *.syntex.gz, *.bib, your executable files, etc. Put the name of these files in a text file named .gitignore 
+Compiled or generated files like *.out, *.log, *.syntex.gz, *.bib, your executable files, etc. Put the name of these files in a text file named .gitignore
 
 If you see your changes reflected on the git-classes site, you have submitted successfully.
 
